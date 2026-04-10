@@ -1,0 +1,4 @@
+rootProject.name = 'maker-tool'
+include 'application'
+include 'api-gateway'
+include 'eureka-server'
